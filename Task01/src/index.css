@@ -1,0 +1,65 @@
+.box1{
+
+  border: white;
+  width: 200px;
+  margin: 20px;
+  padding: 10px;
+  background-color: white;
+
+
+}
+
+.box2{
+
+  border: white;
+  width: 200px;
+  margin: 20px;
+  padding: 10px;
+  background-color: white;
+  margin-inline-start: 30px;
+
+
+}
+
+
+.box3{
+
+  border: white;
+  width: 200px;
+  margin: 20px;
+  padding: 10px;
+  background-color: white;
+  margin-inline-start: 50px;
+
+}
+
+*{
+  padding: 10;
+  margin-top: 10;
+
+}
+
+.box{
+  display: flex;
+  flex-wrap: wrap;
+
+
+}
+
+.object{
+
+  border: skyblue;
+  width: 820px;
+  margin: 100px;
+  padding: 60px;
+  background-color: skyblue;
+}
+
+
+  .button {
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+  }
+
+  
